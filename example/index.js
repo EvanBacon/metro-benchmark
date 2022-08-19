@@ -1,1 +1,2 @@
-require("three");
+require("react");
+require("react-dom");
